@@ -7,3 +7,8 @@ You can find the thesis pdf on the first level or on [academia.edu](https://www.
 * `code/`: code used in the thesis, analysis of the annotated corpus and notebook for randomly choosing judgements
 * `code/scraping/`: scrapy code for scraping the corpus
 * `code/model_training_usage/`: model training and model usage on different domain 
+
+
+## Links to corpora
+- annotated German judgement corpus [link to zenodo](https://zenodo.org/record/3936490#.XwgFkBLgrpB)
+- not annotated German decision corpus [link to zenodo](https://zenodo.org/record/3936726#.XwgFjxLgrpB)
